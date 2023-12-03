@@ -1,6 +1,13 @@
 #include <Adafruit_Fingerprint.h>
 
 /*
+ *Alunos:
+ * Gabriel Cardoso
+ * Donovam Teixeira
+ *  Fernando Dal Vesco
+ */
+
+/*
  * Q0000
  * AUTOR:   BrincandoComIdeias
  * LINK:    https://www.youtube.com/brincandocomideias ; https://cursodearduino.net/
